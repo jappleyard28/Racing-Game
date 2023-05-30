@@ -1,0 +1,25 @@
+# ninja log v5
+1	5325	6424176557810179	CMakeFiles/racing_game.dir/src/main.cpp.obj	45e0b47f120d8d63
+53	5326	6424176558109379	CMakeFiles/racing_game.dir/src/util.cpp.obj	277e9c65ae3da0a9
+34	5345	6424176558488370	CMakeFiles/racing_game.dir/src/input.cpp.obj	f890e908df73e0de
+47	5346	6424176558598075	CMakeFiles/racing_game.dir/src/engine.cpp.obj	252537a954a121e6
+28	5347	6424176558857374	CMakeFiles/racing_game.dir/src/render.cpp.obj	224c30b48fb46805
+21	5357	6424176559016955	CMakeFiles/racing_game.dir/src/assets.cpp.obj	638de61ea1e65eb0
+40	5363	6424176559066814	CMakeFiles/racing_game.dir/src/game.cpp.obj	3fb87cb19671604a
+8	5378	6424176559086764	CMakeFiles/racing_game.dir/src/glw.cpp.obj	cfb1a48ee17416e
+78	7065	6424176576099877	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/vulkan.c.obj	77773aa9db957c33
+72	7067	6424176576119828	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/input.c.obj	524a46b571aa2943
+84	7069	6424176576129801	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/monitor.c.obj	21b181004c37a697
+66	7075	6424176576209579	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/context.c.obj	a954c280a8f695b6
+60	7075	6424176576229526	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/init.c.obj	a774c3ab5a08ff70
+62	658	6424176830706808	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/win32_thread.c.obj	866eb9af46212bc5
+41	665	6424176830756671	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/win32_time.c.obj	6c2cc37f60804be3
+55	667	6424176830756671	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	d2fcb242bf512600
+35	668	6424176830716777	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/wgl_context.c.obj	8acaed6f9083522
+48	669	6424176830756671	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/egl_context.c.obj	e2b2682284666ab9
+28	670	6424176830876355	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/win32_window.c.obj	6ef227852a434975
+22	671	6424176830716777	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	6b69f16fdbcef880
+68	672	6424176830756671	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	fba894ba3cbf7f0b
+9	672	6424176830816519	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/window.c.obj	96bb5a48914c37ac
+16	673	6424176830806543	lib/glfw-3.3.3/src/CMakeFiles/glfw.dir/win32_init.c.obj	2e4cbff69ce7e7d3
+9	364	6424178312992260	lib/glfw-3.3.3/src/glfw3.lib	5bd6faf85765e7ad
